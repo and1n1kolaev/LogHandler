@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LogHandler.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DefaultConnection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=(localdb)\\mssqllocaldb;Database=LogsDb;Trusted_Connection=True;MultipleActiveResultSets=true</Value>
+    </Setting>
+    <Setting Name="Subsystems" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Subsystems.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

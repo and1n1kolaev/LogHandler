@@ -1,0 +1,30 @@
+C:\Users\Андрей\source\repos\LogHandler\LogHandler.DAL\bin\Debug\net5.0\LogHandler.DAL.deps.json
+C:\Users\Андрей\source\repos\LogHandler\LogHandler.DAL\bin\Debug\net5.0\LogHandler.DAL.runtimeconfig.json
+C:\Users\Андрей\source\repos\LogHandler\LogHandler.DAL\bin\Debug\net5.0\LogHandler.DAL.runtimeconfig.dev.json
+C:\Users\Андрей\source\repos\LogHandler\LogHandler.DAL\bin\Debug\net5.0\LogHandler.DAL.dll
+C:\Users\Андрей\source\repos\LogHandler\LogHandler.DAL\bin\Debug\net5.0\ref\LogHandler.DAL.dll
+C:\Users\Андрей\source\repos\LogHandler\LogHandler.DAL\bin\Debug\net5.0\LogHandler.DAL.pdb
+C:\Users\Андрей\source\repos\LogHandler\LogHandler.DAL\obj\Debug\net5.0\LogHandler.DAL.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\LogHandler\LogHandler.DAL\obj\Debug\net5.0\LogHandler.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\source\repos\LogHandler\LogHandler.DAL\obj\Debug\net5.0\LogHandler.DAL.AssemblyInfoInputs.cache
+C:\Users\Андрей\source\repos\LogHandler\LogHandler.DAL\obj\Debug\net5.0\LogHandler.DAL.AssemblyInfo.cs
+C:\Users\Андрей\source\repos\LogHandler\LogHandler.DAL\obj\Debug\net5.0\LogHandler.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\LogHandler\LogHandler.DAL\obj\Debug\net5.0\LogHandler.DAL.dll
+C:\Users\Андрей\source\repos\LogHandler\LogHandler.DAL\obj\Debug\net5.0\ref\LogHandler.DAL.dll
+C:\Users\Андрей\source\repos\LogHandler\LogHandler.DAL\obj\Debug\net5.0\LogHandler.DAL.pdb
+C:\Users\Андрей\source\repos\LogHandler\LogHandler.DAL\obj\Debug\net5.0\LogHandler.DAL.genruntimeconfig.cache
+C:\Users\Андрей\source\repos\LogHandler — копия\LogHandler.DAL\bin\Debug\net5.0\LogHandler.DAL.deps.json
+C:\Users\Андрей\source\repos\LogHandler — копия\LogHandler.DAL\bin\Debug\net5.0\LogHandler.DAL.runtimeconfig.json
+C:\Users\Андрей\source\repos\LogHandler — копия\LogHandler.DAL\bin\Debug\net5.0\LogHandler.DAL.runtimeconfig.dev.json
+C:\Users\Андрей\source\repos\LogHandler — копия\LogHandler.DAL\bin\Debug\net5.0\LogHandler.DAL.dll
+C:\Users\Андрей\source\repos\LogHandler — копия\LogHandler.DAL\bin\Debug\net5.0\ref\LogHandler.DAL.dll
+C:\Users\Андрей\source\repos\LogHandler — копия\LogHandler.DAL\bin\Debug\net5.0\LogHandler.DAL.pdb
+C:\Users\Андрей\source\repos\LogHandler — копия\LogHandler.DAL\obj\Debug\net5.0\LogHandler.DAL.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\LogHandler — копия\LogHandler.DAL\obj\Debug\net5.0\LogHandler.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\source\repos\LogHandler — копия\LogHandler.DAL\obj\Debug\net5.0\LogHandler.DAL.AssemblyInfoInputs.cache
+C:\Users\Андрей\source\repos\LogHandler — копия\LogHandler.DAL\obj\Debug\net5.0\LogHandler.DAL.AssemblyInfo.cs
+C:\Users\Андрей\source\repos\LogHandler — копия\LogHandler.DAL\obj\Debug\net5.0\LogHandler.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\LogHandler — копия\LogHandler.DAL\obj\Debug\net5.0\LogHandler.DAL.dll
+C:\Users\Андрей\source\repos\LogHandler — копия\LogHandler.DAL\obj\Debug\net5.0\ref\LogHandler.DAL.dll
+C:\Users\Андрей\source\repos\LogHandler — копия\LogHandler.DAL\obj\Debug\net5.0\LogHandler.DAL.pdb
+C:\Users\Андрей\source\repos\LogHandler — копия\LogHandler.DAL\obj\Debug\net5.0\LogHandler.DAL.genruntimeconfig.cache
